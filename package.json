@@ -4,7 +4,8 @@
   "description": "Segunda entrega curso TDEA",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
